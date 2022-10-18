@@ -16,6 +16,7 @@ cars seen that half hour. We can assume clean input, as these files are machine-
 Input for the application will be provided from a file.
 
 Example:
+```
 2021-12-01T05:00:00 5
 2021-12-01T05:30:00 12
 2021-12-01T06:00:00 14
@@ -40,7 +41,7 @@ Example:
 2021-12-08T22:00:00 16
 2021-12-08T23:00:00 11
 2021-12-09T00:00:00 4
-
+```
 ## Run Application
 
 1) Compile the source code
