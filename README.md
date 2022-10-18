@@ -1,4 +1,4 @@
-# AIPS Code Challenge
+# Traffic Data Analyzer
 
 This application will process the traffic data generated from automated traffic counter.
 
